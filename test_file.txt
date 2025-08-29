@@ -1,0 +1,10 @@
+This is a test file for the FastAPI file upload system.
+
+Features demonstrated:
+- File upload functionality
+- File listing in frontend
+- File viewing and downloading
+- File deletion
+- Modern web interface
+
+The system stores files locally in the uploads/ directory and provides a beautiful web interface for managing them.
